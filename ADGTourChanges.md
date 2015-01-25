@@ -1,10 +1,10 @@
 # ADG Division and ADGTour Changes for 2015
 
-You will notice a few changes to the ADGTour this year and we wanted to let you know what they’re all about. Its important that you understand these changes if you are planning to host or compete in any ADGTour event or PDGA sanctioned event in Australian in 2015. Each of the key changes is outlined below.
+You will notice a few changes to the ADGTour this year and we wanted to let you know what they’re all about. It's important that you understand these changes if you are planning to host or compete in any ADGTour event or PDGA sanctioned event in Australia in 2015. Each of the key changes is outlined below.
 
 ## ADG to Adopt PDGA Divisions
 
-In 2015 we will move from our own system to using [PDGA Divisions](http://www.pdga.com/pdga-player-classifications-divisions) at all ADGTour events. For the most part this just means that the name and code of the division you will compete in has been changed. The table below shows the old and new codes. You will notice that some divisions have been removed and a new division has been added. THe Men's Intermediate division is new this year and will be offered initially only at ADGTour A-Tier events. We have also reduced the Women's divisions to only two divisions based on the participation levels we have been seeing. You might also notice that what was Recreational is now referred to as Novice. Here is the complete list:
+In 2015 we will move from our own system to using [PDGA Divisions](http://www.pdga.com/pdga-player-classifications-divisions) at all ADGTour events. For the most part this just means that the name and code of the division you will compete in has been changed. The table below shows the old and new codes. You will notice that some divisions have been removed and a new division has been added. The Intermediate divisions are new this year and initially will not be offered at all tour events. The Men's Intermediate division will be offered at all ADGTour A-Tier events. Based on current participation levels we have removed the Women's open division.  You might also notice that what was Recreational is now referred to as Novice. Here is the complete list:
 
 | Division            | Classification | Old Code | New Code | PDGA Rating          | ADG Recommended Rating |
 |---------------------|----------------|----------|----------|----------------------|------------------------|
@@ -16,15 +16,16 @@ In 2015 we will move from our own system to using [PDGA Divisions](http://www.pd
 | Men's Grand Masters | Am             | MG       | MG1      | Born 1965 or earlier | Born 1965 or earlier   |
 | Boy's Under 17      | Am             | MJ       | MJ2      | Born 1999 or later   | Born 1999 or later     |
 | Women's Advanced    | Am             | FA       | FA1      | 825+                 | 800+                   |
+| Women's Intermediate| Am             | -        | FA2      | < 825                | < 800                  |
 | Women's Novice      | Am             | FR       | FA4      | < 725                | < 700                  |
 
 ADG has decided, in addition to presenting the official PDGA rating details for these divisions, to offer an ADG recommended rating level based on the level of play observed in Australia in past tour years. International players can use these recommended ratings to get a better understanding of the likely level of competition they will experience with local players. ADG will continue to monitor results from ADGTour events to evaluate whether separate recommended ratings continue to be required. If you have any doubts about which division you should participate in contact your Tournament Director or the [Director of Competitions](mailto:competitions@australiandiscgolf.com).
 
 For the latest information on division classifications and requirements please see the [ADG Website](http://www.australiandiscgolf.com/divisions/).
 
-## New Division Offered
+## New Intermediate Division Offered
 
-We are introducing a new division between what would currently be considered Advanced and Recreational, now between Advanced and Notice. The Intermediate division will only be offered at ADGTour A-Tier events and for the 2015 tour year points accumulated in the Advanced (MA1) and Intermediate (MA2) divisions will be merged into a single 'Am' division. In future tour years if we see good participation levels in all divisions we will separate them.
+We are introducing a new division between what would currently be considered Advanced and Recreational, now between Advanced and Notice. The Intermediate division will not be offered at all events and for the 2015 tour year points accumulated in the Advanced (MA1) and Intermediate (MA2) divisions will be merged into a single 'Am' division. In future tour years if we see good participation levels in all divisions we will separate them.
 
 ## Points Accumulated in Event Division
 
@@ -36,6 +37,6 @@ Players who register for a division which is offered at an event who are then fo
 
 ## PDGA Membership Requirement
 
-Players competing at ADGTour A-Tier events in the MA1, MA2 divisions **must** hold a currenet PDGA membership which will be valid for the time of the event. Players entering in these divisions (who do no qualify for Novice) who are unwilling to obtain a PDGA membership must compete in the Open (MPO) division instead, which by definition is open to any player. We are working to enhance the event registration system to check PDGA membership status prior to accepting registration to help players and event organisers manage this requirement.
+All players are encouraged to become [PDGA members](http://www.pdga.com/membership). At ADGTour A tier events players in the Men's Open, Advanced and Intermediate divisions as well as those in Men's Novice who have played for over 2 years, must be PDGA members or pay $5 extra. 
 
 Some of these changes are quite significant so please be patient while we get all of our website content and systems updated. Players and event organises with questions should definitely reach out to the [Director of Competitions](mailto:competitions@australiandiscgolf.com).
