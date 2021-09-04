@@ -40,3 +40,4 @@ Players who register for a division which is offered at an event who are then fo
 All players are encouraged to become [PDGA members](http://www.pdga.com/membership). At ADGTour A tier events players in the Men's Open, Advanced and Intermediate divisions as well as those in Men's Novice who have played for over 2 years, must be PDGA members or pay $5 extra. 
 
 Some of these changes are quite significant so please be patient while we get all of our website content and systems updated. Players and event organises with questions should definitely reach out to the [Director of Competitions](mailto:competitions@australiandiscgolf.com).
+
